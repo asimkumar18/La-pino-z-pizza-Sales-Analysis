@@ -116,6 +116,14 @@ Identify high-performing and underperforming products
 
 🍴 Top Size: Large (45.89% of sales)
 
+### 📷 Dashboard Previews
+
+![Dashboard preview](https://github.com/asimkumar18/La-pino-z-pizza-Sales-Analysis/blob/main/sales_overview_dashboard.png.png)
+
+### Page 2
+
+![Page 2](https://github.com/asimkumar18/La-pino-z-pizza-Sales-Analysis/blob/main/top_least_selling_dashboard.png.png)
+
 ### 🏁 Conclusion
 
 This project demonstrates how SQL + Power BI can transform raw transactional data into insightful business intelligence dashboards.
